@@ -1,10 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/9b1h7Zi.gif" width="100%" />
+  <img src="github-header-banner.png" alt="header"/>
 </p>
-
-<h1 align="center">👋 Hi, I'm <span style="color:#0ea5e9;">Niraj Kudale</span></h1>
-<h3 align="center">🚀 DevOps & Cloud Engineer | Linux | AWS |</h3>
 
 <br/>
 
