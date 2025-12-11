@@ -15,7 +15,7 @@
 - 🌱 Currently learning **AWS & DevOps Tools**  
 - 🐧 Comfortable with **Linux (RHEL)**  
 - 🗄 Skilled in **SQL + DBMS**  
-- 🤝 Looking for help with **DevOps Projects & CI/CD Pipelines**  
+- 🤝 Looking for help with **DevOps Projects & CI/CD Pipelines**                        
 - 📫 Reach me at **kudaleniraj@gmail.com**  
 - ⚡ Fun fact: *I learn something new every day—even by accident!*  
 
